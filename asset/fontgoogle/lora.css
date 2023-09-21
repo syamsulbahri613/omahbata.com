@@ -1,0 +1,63 @@
+@font-face {
+   font-family: "lora";
+   font-style: italic;
+   font-weight: 400;
+   font-display: swap;
+   src: url("../fontgoogle/Lora/Lora-Italic.ttf") format('truetype');
+}
+
+@font-face {
+   font-family: "lora";
+   font-style: normal;
+   font-weight: 400;
+   font-display: swap;
+   src: url("../fontgoogle/Lora/Lora-Regular.ttf") format('truetype');
+}
+
+@font-face {
+   font-family: "lora";
+   font-style: italic;
+   font-weight: 500;
+   font-display: swap;
+   src: url("../fontgoogle/Lora/Lora-MediumItalic.ttf") format('truetype');
+}
+
+@font-face {
+   font-family: "lora";
+   font-style: normal;
+   font-weight: 500;
+   font-display: swap;
+   src: url("../fontgoogle/Lora/Lora-Medium.ttf") format('truetype');
+}
+
+@font-face {
+   font-family: "lora";
+   font-style: italic;
+   font-weight: 600;
+   font-display: swap;
+   src: url("../fontgoogle/Lora/Lora-SemiBoldItalic.ttf") format('truetype');
+}
+
+@font-face {
+   font-family: "lora";
+   font-style: normal;
+   font-weight: 600;
+   font-display: swap;
+   src: url("../fontgoogle/Lora/Lora-SemiBold.ttf") format('truetype');
+}
+
+@font-face {
+   font-family: "lora";
+   font-style: italic;
+   font-weight: 700;
+   font-display: swap;
+   src: url("../fontgoogle/Lora/Lora-BoldItalic.ttf") format('truetype');
+}
+
+@font-face {
+   font-family: "lora";
+   font-style: normal;
+   font-weight: 700;
+   font-display: swap;
+   src: url("../fontgoogle/Lora/Lora-Bold.ttf") format('truetype');
+}
